@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ColorsApp</string>
+
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+    <string name="brown">Brown</string>
+    <string name="reb">Red</string>
+    <string name="semiTransparent">Semitransparent</string>
+    <string name="Transparent">Transparent</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Cyan">Cyan</string>
+    <string name="alpha">Alpha</string>
+
+
+</resources>
