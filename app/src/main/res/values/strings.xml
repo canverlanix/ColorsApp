@@ -14,5 +14,11 @@
     <string name="Cyan">Cyan</string>
     <string name="alpha">Alpha</string>
 
+    <string name="txt_name">Developed by: Carlos Ruiz</string>
+    <string name="txt_code">Code: I017116</string>
+    <string name="txt_mail">E-mail: canver-19@hotmail.com</string>
+    <string name="btn_contact">Return</string>
+    <string name="item7">Contact us</string>
+
 
 </resources>
